@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ömer</h1>
-<h3 align="center">Frontend Developer trying to become a Full Stack Developer.. 🥲</h3>
+<h3 align="center">A mobile software developer with expertise in TypeScript and React Native.</h3>
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/KpACNEh8jXK2Q/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omerdurann&label=Profile%20views&color=0e75b6&style=flat" alt="omerdurann" /> </p>
 
