@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ömer</h1>
 <h3 align="center">A Mobile Developer with Swift, Flutter and React Native expertise.</h3>
-//<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/KpACNEh8jXK2Q/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/KpACNEh8jXK2Q/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omerdurann&label=Profile%20views&color=0e75b6&style=flat" alt="omerdurann" /> </p>
 
 - 📫 How to reach me **omerduran4433@gmail.com**
