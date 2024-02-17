@@ -18,4 +18,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omerdurann&show_icons=true&locale=en&layout=compact" alt="omerdurann" /></p>
+<img align="center" src="https://github.com/omerdurann/omerdurann/blob/output/github-contribution-grid-snake-dark.svg" alt="omerdurann" />
