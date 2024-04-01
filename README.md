@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Ömer and I'm a Mobile Developer, from Uganda</h1>
+<h1 align="center">Hi 👋! My name is Ömer and I'm a Mobile Developer, from Zimbabwe</h1>
 
 ###
 
