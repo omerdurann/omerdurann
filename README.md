@@ -81,3 +81,5 @@
 <img src="https://github.com/omerdurann/omerdurann/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
+
+![My GitHub Game](game.gif)
